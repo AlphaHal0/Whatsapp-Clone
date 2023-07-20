@@ -1,9 +1,9 @@
 # App Snapshots
 ## Snapshot 1 Template:
-![snapshot1](snapshots/snapshot1.png)
+![snapshot3](snapshots/snapshot3.png)
 
 ## Snapshot 2 Template:
-![snapshot1](snapshots/snapshot1.png)
+![snapshot4](snapshots/snapshot4.png)
 
 ## Snapshot 1 - WhatsApp Chats 1
 ![snapshot1](snapshots/snapshot1.png)
