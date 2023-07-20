@@ -5,5 +5,5 @@
 ## Snapshot 2 Template:
 ![snapshot4](snapshots/snapshot4.jpg)
 
-## Snapshot 2 - WhatsApp Chats 1
+## Snapshot 1 - WhatsApp Chats 1
 ![snapshot2](snapshots/snapshot2.png)
